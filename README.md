@@ -28,5 +28,5 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Lesetechniken angeschaut
   - Kennenlernen von Erweiterung git conventional commits in Visual Studio Code 
     * Tutorial angeschaut
-    * Zusammenhang mit Github und dem erstellen Repository erkennen und verstehen
+    * Zusammenhang mit Github und dem erstellten Repository erkennen und verstehen
   - Buch Quanten Computing verstehen angefangen zu überfliegen
