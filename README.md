@@ -26,4 +26,7 @@
 Am ersten Tag finde ich mich zunächst zurecht mit:
   - [Die Grundlagen von Markdown] (https://www.youtube.com/watch?v=9rKA62-0Gck "Videoanleitung")
   - Lesetechniken angeschaut
-  - Kennenlernen von git conventional commits
+  - Kennenlernen von Erweiterung git conventional commits in Visual Studio Code 
+    * Tutorial angeschaut
+    * Zusammenhang mit Github und dem erstellen Repository erkennen und verstehen
+  - Buch Quanten Computing verstehen angefangen zu überfliegen
