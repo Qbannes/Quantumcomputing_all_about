@@ -43,3 +43,24 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   * Verschränkung [youtube] (https://www.youtube.com/watch?v=fOmD8HjUK0U), [youtube] (https://www.youtube.com/watch?v=mFWOuSKTtS8)
   * Matrix, Matritzen (Grundlagen) [youtube] (https://www.youtube.com/watch?v=l1WcQyqDjoQ), (Determinanten) [youtube] (https://www.youtube.com/watch?v=3cG0HWdmHLI&list=PLF29x0idI4lXbzq-BgwHMxGtjpRT_FZ55)
     - schriftliche Berechnungen (https://1drv.ms/o/c/985127b91f9eddf1/ESTv1jNm6wZJk1oDlQWX7wsBS9yJcTsvF-4aff-ghbwRYQ?e=jAuDXR)
+
+# Tag 3 (06.06.2025):
+- Braket-Notationen, komplexe Zahlen, Skalarprodukt, orthogonale und orthonormale Zustände bei Vektoren
+- Der Fahrplantuning
+
+  ## Neuer Fahrplan:
+    - Woche 1-2: Quantengrundlagen und Data Science-Basis
+      * Themen: Quantenphysik light: Doppelspalt, Superposition, Verschränkung
+      * Mathematik: Lineare Algebra (nur für Qubits: Vektoren, Matritzenmultiplikation, Tensorprodukte)
+      * Data Sience: Datenrepräsentation, klassische Optimierung (z.B. lineare Programmierung für Logistik)
+      * Praxis: Python-Übungen mit numpy (Matrixoperationen) und pandas (Datenaufbereitung)
+                Qiskit: Quantenschaltkreis (Bell-Zustand)
+      * Buch: Quantum Computing verstehen (Homeister), Quantum Computing (Kaveh Bashiri), Data Sience (Tom Alby) 
+
+    - Woche 3-4: Quantenalgorithmen I (optimierung)
+      * Themen: Deutsch-Jozsa (Verständnis für Quantenüberlegenheit), SQD für diskrete Optimierung
+      * Matrizen: Unitäre Transformationen, Quantengatter (Hadamard, CNOT)
+      * Logistikbezug: Traveling Salesman Problem (TSP) klassisch vs. quantenmechanisch
+      * Praxis: Qiskit: Implementierung von Deutsch-Jozsa
+                Recherche: Wie wird TSP in der Logistik gelöst?
+                Qiskit-Tutorial: [Deutsch-Jozsa Algorithm](https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html).  
