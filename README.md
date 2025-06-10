@@ -64,3 +64,15 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
       * Praxis: Qiskit: Implementierung von Deutsch-Jozsa
                 Recherche: Wie wird TSP in der Logistik gelöst?
                 Qiskit-Tutorial: [Deutsch-Jozsa Algorithm](https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html).  
+
+# Tag 4 (10.06.2025):
+  - Eine kurze Geschichte der Technischen Informatik (Peter Reichl):
+    * Quantenbit [youtube] (https://www.youtube.com/watch?v=K1MLAvbp5rw&list=PLz0Xu_tRc8O6aRR7cbEdgADomVkOefx81&index=17)
+    * Quantengatter [youtube] (https://www.youtube.com/watch?v=8K0VAdo2wdg&list=PLz0Xu_tRc8O6aRR7cbEdgADomVkOefx81&index=18)
+  - Jupyter Notebook (Qiskit_erste_Versuche.jpynb):
+    * Quantenschaltkreis
+    * Quantengatter anzeigen
+    * Bell-Zustand erzeugen
+  - Jupyter Notebook (Codebeispiele.jpynb aus dem Buch Quantum Computing - Anwendung, ...):
+    * Präperation eines Qubits mit entsprechender Ausgabe
+    
