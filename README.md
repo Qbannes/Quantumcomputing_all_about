@@ -46,7 +46,7 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 
 # Tag 3 (06.06.2025):
 - Braket-Notationen, komplexe Zahlen, Skalarprodukt, orthogonale und orthonormale Zustände bei Vektoren
-- Der Fahrplantuning
+- Fahrplanaufwertung/-änderung
 
   ## Neuer Fahrplan:
     - Woche 1-2: Quantengrundlagen und Data Science-Basis
@@ -75,4 +75,6 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
     * Bell-Zustand erzeugen
   - Jupyter Notebook (Codebeispiele.jpynb aus dem Buch Quantum Computing - Anwendung, ...):
     * Präperation eines Qubits mit entsprechender Ausgabe
-    
+    * Anwendung einer Hadamard-Matrix auf ein Qubit
+
+# Tag 5 (11.06.2025)
