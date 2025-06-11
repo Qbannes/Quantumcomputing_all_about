@@ -78,3 +78,7 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
     * Anwendung einer Hadamard-Matrix auf ein Qubit
 
 # Tag 5 (11.06.2025)
+  - Algebra Grundlagen für Quanteninformatik, Vertiefung, Übungsaufgaben
+    * Realisierung und Beweisen in Python (Math_Basics_Quantum_Computing.jpynb)
+    * Vektorraum (Unterräume) [youtube] (https://www.youtube.com/watch?v=N40S3mRtfqo&list=PLLTAHuUj-zHg5aCwkY8rEdui-bhZnJloM)
+    * Python Grundlagen (Arrays)
