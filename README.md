@@ -91,3 +91,6 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 
 # Tag 7 (12.06.2025):
   - Quantenalgorithmen (Shor-Algorithmus, Deutsch-Jozsa, Grover, VQE, QAOA, Quantum SVM/VQC, Quantum Phase Estimation)
+
+
+  TEST TEST TEST
