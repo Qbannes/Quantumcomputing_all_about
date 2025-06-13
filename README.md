@@ -91,4 +91,5 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 
 # Tag 7 (12.06.2025):
   - Quantenalgorithmen (Shor-Algorithmus, Deutsch-Jozsa, Grover, VQE, QAOA, Quantum SVM/VQC, Quantum Phase Estimation)
-
+  - GitKraaken mit lokalem Repository verknüpft
+    * Tutorial geschaut (https://www.youtube.com/watch?v=e-g4zgkponI)
