@@ -93,4 +93,5 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Quantenalgorithmen (Shor-Algorithmus, Deutsch-Jozsa, Grover, VQE, QAOA, Quantum SVM/VQC, Quantum Phase Estimation)
 
 
-  TEST TEST TEST
+  TEST TEST TEST TEST TEST TEST
+  
