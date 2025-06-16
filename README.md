@@ -89,7 +89,14 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Arbeitsplatzwechsel
   - Helfen beim 3D-Drucker
 
-# Tag 7 (12.06.2025):
+# Tag 7 (13.06.2025):
   - Quantenalgorithmen (Shor-Algorithmus, Deutsch-Jozsa, Grover, VQE, QAOA, Quantum SVM/VQC, Quantum Phase Estimation)
   - GitKraken mit lokalem Repository verknüpft
     * Tutorial geschaut (https://www.youtube.com/watch?v=e-g4zgkponI)
+
+# Tag 8 (16.06.2025)
+  - IBM Vortrag über Sample-based Quantum Diagonalization (SQD) angeschaut
+  - Buch: Data Science: Einführung in R
+    * Installation R, RStudio und Konfiguration
+    * Seite 71-98 (Erste Befehle, Vektoren, Dataframes)
+    
