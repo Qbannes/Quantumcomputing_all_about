@@ -99,4 +99,3 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Buch: Data Science: Einführung in R
     * Installation R, RStudio und Konfiguration
     * Seite 71-98 (Erste Befehle, Vektoren, Dataframes)
-    
