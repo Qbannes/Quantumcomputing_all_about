@@ -12,7 +12,7 @@
   - Fairer Zufall
   - Verschränkung und wofür
   - Matritzen
-  - Problem des Handelsreisenden
+  - Problem des Handelsreisenden (Grover-Algorithmus)
 ## Algorithmen
   - SQD
   - Deutsch-Jozsa-Algorithmus
@@ -99,3 +99,11 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Buch: Data Science: Einführung in R
     * Installation R, RStudio und Konfiguration
     * Seite 71-98 (Erste Befehle, Vektoren, Dataframes)
+
+# Tag 9 (17.06.2025)
+  - Fortsetzung Buch: Data Science: Einführung in R
+    * Seite 98-110 (Packetinstallationen, Importortieren)
+  - Buch:Einführung in die Informatik: Algorithmen und Datenstrukturen S. 305
+    * binäre und lineare Suche, BubbleSort-Algorithmus, QuickSort-Algorithmus (Dive-and-Conquer)
+  - Jupyter Notebook: Sortieralgorithmen in flights_statistic_algorithm.jpynb angewandt
+                      Quantu-Merge-Algorithmus (Quantum_Merge_Sort.jpynb)
