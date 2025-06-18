@@ -114,3 +114,4 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Neuausrichtung und Planung der nächsten Wochen und Monate
     * Repository anlegen für den persönlichen Fortschritt und einer 
       Dokumentations- und Wissensdatenbank im Markdown-Format
+
