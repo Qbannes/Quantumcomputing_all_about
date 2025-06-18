@@ -33,7 +33,7 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Buch Quanten Computing verstehen angefangen zu überfliegen
 
 # Tag 2 (05.06.2025):
-- Grafiktablet und zugehöriges Programm eingerichtet zur Bearbeitung schriftlicher Algebra aus der Literatur    (Quantencomputing)
+- Grafiktablet und zugehöriges Programm eingerichtet zur Bearbeitung schriftlicher Algebra aus der  Literatur    (Quantencomputing)
 - Kennenlernen der Intranet Lernplattform 
 - Kennenlernen von Copilot und dem Erstellen von Agenten
 - Beginn mit dem Fahrplan:
@@ -107,3 +107,10 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
     * binäre und lineare Suche, BubbleSort-Algorithmus, QuickSort-Algorithmus (Dive-and-Conquer)
   - Jupyter Notebook: Sortieralgorithmen in flights_statistic_algorithm.jpynb angewandt
                       Quantu-Merge-Algorithmus (Quantum_Merge_Sort.jpynb)
+
+# Tag 10 (18.06.2025):
+  - Comcave kontaktiert bzgl. Urlaubsregelung während Praktikum
+  - Gespräch mit dem Vorgesetzten über Erwartungen und Chancen
+  - Neuausrichtung und Planung der nächsten Wochen und Monate
+    * Repository anlegen für den persönlichen Fortschritt und einer 
+      Dokumentations- und Wissensdatenbank im Markdown-Format
