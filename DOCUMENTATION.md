@@ -118,4 +118,5 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 # Tag 11 (19.06.2025):
   - Programmieren in Python lernen an: 
     * Matrixoperationen
-    * Beispielen für O-Notationen
+    * Beispiele für O-Notationen (O[1], O[log n], O[n], O[n²], O[n!])
+        Erklärung in Youtube angeschaut
