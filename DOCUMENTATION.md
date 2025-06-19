@@ -20,7 +20,7 @@
 ## Programmierung
   - Qiskit (IBM)
   - Q#
-  - Anaconda (jupyter, Postgres BD)
+  - Anaconda (jupyter, PostgreSQL)
 
 # Tag 1 (04.06.2025): Sortierung und erste Schritte
 Am ersten Tag finde ich mich zunächst zurecht mit:
@@ -115,3 +115,7 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
     * Repository anlegen für den persönlichen Fortschritt und einer 
       Dokumentations- und Wissensdatenbank im Markdown-Format
 
+# Tag 11 (19.06.2025):
+  - Programmieren in Python lernen an: 
+    * Matrixoperationen
+    * Beispielen für O-Notationen
