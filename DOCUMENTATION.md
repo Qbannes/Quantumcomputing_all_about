@@ -120,3 +120,6 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
     * Matrixoperationen
     * Beispiele für O-Notationen (O[1], O[log n], O[n], O[n²], O[n!])
         Erklärung in Youtube angeschaut
+
+# Tag 12 (20.06.2025):
+  - 
